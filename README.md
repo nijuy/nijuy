@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary>FoodSsung</summary>
+  <summary><a href="https://foodssung.soomsil.de/">FoodSsung</a></summary>
 - 진행 기간: 2023.05.01 ~ 2023.05.15</br>
 - 숭실대학교 동아리 YOURSSU - 웹 프론트엔드 팀</br>
 - 봄축제 동아리 부스 홍보를 위한 웹 게임
