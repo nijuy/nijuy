@@ -28,7 +28,7 @@
 - <a href="https://www.inflearn.com/course/mssql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8C%8C%ED%8A%B81">MSSQL Server 2016 기반의 데이터베이스 입문에서 활용까지 Part.1</a> ~ <a href="https://www.inflearn.com/course/mssql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8C%8C%ED%8A%B83">MSSQL Server 2016 기반의 데이터베이스 입문에서 활용까지 Part.3</a>
 </details>
 
-<details><summary> 선택장애 없는 대학생활 </summary>
+<details><summary><a href="https://github.com/hongjunehuke/2022-Winter-Java-TeamProject">선택장애 없는 대학생활</a></summary>
 - 진행 기간: 2022.02.09 ~ 2022.02.27</br>
 - 숭실대학교 소모임 Ci&Ai 토이 프로젝트 경진대회</br>
 - 자바 AWT, Swing을 이용한 GUI 프로그램</br>
