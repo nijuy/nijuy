@@ -38,7 +38,7 @@
 <details>
   <summary><a href="https://github.com/nijuy/chlorophyll">잎파랑이</a></summary>
 - 진행 기간: 2022.03.02 ~ 2022.06.14</br>
-- 식물 기록, 관리용 안드로이드 어플리케이션
+- 식물 추천, 기록, 관리용 안드로이드 어플리케이션
 </details>
 
 <details>
