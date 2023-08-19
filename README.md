@@ -75,5 +75,5 @@
 - Realworld 클론코딩 프로젝트</br>
 </details></br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nijuy">
+<img src="https://github-readme-stats.vercel.app/api?username=nijuy&count_private=true">
 </div>
