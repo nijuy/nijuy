@@ -49,6 +49,13 @@
 </details>
 
 <details>
+  <summary><a href="https://github.com/Soongsil-Developers/streak">@soongsil/streak</a></summary>
+- 진행 기간: 2022.08.31 ~ 2022.09.17</br>
+- 숭실대학교 Devcamp 22sdc-streak팀 </br>
+- 주어진 날짜 데이터를 활용하여 스트릭 정보를 계산하고 시각적으로 표현해주는 기능을 제공하는 오픈소스 라이브러리 (<a href="https://www.npmjs.com/package/@soongsil/streak">NPM Link</a>)
+</details>
+
+<details>
   <summary><a href="https://github.com/bbiyongbbiyong/bbiyong-front">삐용삐용</a></summary>
 - 진행 기간: 2022.11 ~ 2022.12 / 2023.07.03~ 2023.07.31</br>
 - 실시간 재난 알림/모아보기 서비스
