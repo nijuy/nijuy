@@ -80,6 +80,13 @@
 - 진행 기간: 2023.05.20 ~ 2023.07.07</br>
 - 숭실대학교 동아리 YOURSSU - 웹 프론트엔드 팀 인큐베이팅</br>
 - Realworld 클론코딩 프로젝트</br>
+</details>
+
+<details>
+  <summary><a href="https://github.com/yourssu/autumn-ssu-dating">뿌슝이의 동물SSU개팅</a></summary>
+- 진행 기간: 2023.09.09 ~ 2023.09.20</br>
+- 숭실대학교 동아리 YOURSSU</br>
+- 대동제 동아리 부스 운영을 위한 온라인 매칭 서비스</br>
 </details></br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nijuy&count_private=true">
