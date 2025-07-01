@@ -24,4 +24,9 @@
 - [22.05] ASK 2022 학부생 논문경진대회 동상 - **[지식 기반 추천 시스템을 이용한 식물 추천 시스템](https://kiss.kstudy.com/Detail/Ar?key=3957850)**
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=nijuy&count_private=true">
+
+<div style="display:flex">
+  <a href="https://velog.io/@nijuy"><img src="https://velog-readme-stats.vercel.app/api/list?name=nijuy"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nijuy&count_private=true">
+</div>
+
