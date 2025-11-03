@@ -1,5 +1,8 @@
 # About @nijuy
 
+## 💼 Work Experience
+- [25.07~ 재직 중] Tain AI, Product Engineer (Internship)
+
 ## 📁 Projects
 
 > 현재 운영 중이지 않은 서비스는 리포지토리로 연결됩니다.
