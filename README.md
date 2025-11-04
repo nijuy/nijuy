@@ -11,7 +11,7 @@
 - [25.05~ 25.05] 개발자 유형 분류 테스트 **[나는 어떤 개발자일까?](https://dev-type-test.vercel.app/)**
 - [23.09~ 24.03] 동물 캐릭터 기반 데이팅 서비스 **[뿌슝이의 동물 SSU개팅](https://github.com/yourssu/autumn-ssu-dating)**
 - [23.08~ 25.01] 숭실대학교 IT 동아리 **[Yourssu 디자인 시스템](https://github.com/yourssu/Handy-React/)**
-- [23.05~ 23.05] 방향에 맞게 음식을 분류하는 게임 **[FoodSsung](https://foodssung.soomsil.de/)** 
+- [23.05~ 23.05] 방향에 맞게 음식을 분류하는 게임 **FoodSsung** 
 - [23.05~ 23.05] 숭실대학교 학생을 위한 백마 캐릭터 명함 생성 서비스 **[뉘슈?](https://nyu-ssu.vercel.app/)**
 
 ## ✨ Activities
