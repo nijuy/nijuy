@@ -1,5 +1,7 @@
 # About @nijuy
 
+안녕하세요. 프론트엔드 엔지니어 이유진입니다.
+
 ## 💼 Work Experience
 - [25.07~ 재직 중] Tain AI, Product Engineer (Internship)
 
@@ -28,8 +30,5 @@
 
 ---
 
-<div style="display:flex">
-  <a href="https://velog.io/@nijuy"><img src="https://velog-readme-stats.vercel.app/api/list?name=nijuy"></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=nijuy&count_private=true">
-</div>
+<a href="https://velog.io/@nijuy"><img src="https://velog-readme-stats.vercel.app/api/list?name=nijuy"></a>
 
