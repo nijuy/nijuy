@@ -3,7 +3,7 @@
 안녕하세요. 프론트엔드 엔지니어 이유진입니다.
 
 ## 💼 Work Experience
-- [25.07~ 재직 중] Tain AI, Product Engineer (Internship)
+- [25.07~ 25.12] Tain AI, Product Engineer (Internship)
 
 ## 📁 Projects
 
